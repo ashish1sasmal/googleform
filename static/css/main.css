@@ -1,0 +1,25 @@
+@font-face {
+  font-family: futura;
+  src: url(Futura Book font.ttf);
+}
+
+*{
+	margin: 0px;
+}
+
+#cssmenu{
+	background-image: url('https://lh3.googleusercontent.com/NxDOWr40LLHue3t3DRMeUIJZkwdKS4GvzP15MsV2YPJWquFO9T_Xs-JVADkZpcivpp97yp8Uqw=w1200');
+	color: yellow;
+	font-family: 'futura', sans-serif;
+	font-weight: lighter;
+	width: 100%;
+	height: 15vh;
+	font-size: 25px;
+
+}
+
+#cssmenu h1{
+	line-height: 15vh;
+	padding-left: 10vh;
+	text-shadow: 4px 4px #3d494f;
+}

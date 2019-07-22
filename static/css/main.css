@@ -6,7 +6,11 @@
 *{
 	margin: 0px;
 }
+#form{
 
+		background-size: 100% 100%;
+		height: 100vh;
+}
 #cssmenu{
 	background-image: url('https://lh3.googleusercontent.com/NxDOWr40LLHue3t3DRMeUIJZkwdKS4GvzP15MsV2YPJWquFO9T_Xs-JVADkZpcivpp97yp8Uqw=w1200');
 	color: yellow;
@@ -23,3 +27,21 @@
 	padding-left: 10vh;
 	text-shadow: 4px 4px #3d494f;
 }
+
+#form input{
+	background-color: white;
+	color: black;
+	margin-left: 12vh;
+	border-color: grey;
+}
+
+#form select{
+	margin-left: 12vh;
+}
+
+
+
+::-moz-placeholder {  
+   text-align: center;  
+}
+
